@@ -1,0 +1,3 @@
+##### Configurações MacOS 
+
+  * configurando Jenv
